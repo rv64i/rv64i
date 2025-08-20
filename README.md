@@ -27,6 +27,7 @@ Ahoy, i’m a scallywag who thought it was a good idea to name myself RISC-V* an
 			<td><a href="https://ceesjhay.org/"><img src="./web-banner/ceesjhay.png" alt="Ceesjhay"></a></td>
 			<td><a href="https://madobenanami.com/"><img src="./web-banner/grady.png" alt="Grady"></a></td>
 			<td><a href="https://www.freebsd.org/"><img src="./web-banner/freebsd.png" alt="FreeBSD"></a></td>
+			<td><a href="https://www.cusens.eu/sens"><img src="./web-banner/cusens.png" alt="#CuSens"></a></td>
 		</tr>
     </table>
 </center>
